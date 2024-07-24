@@ -4,6 +4,11 @@ Leverage OpenAI and Pinecone to transform document management by processing, emb
 
 This project demonstrates how to process documents, create embeddings, and answer queries using OpenAI, Pinecone, and LangChain libraries. The system processes a document, splits it into manageable chunks, creates embeddings, stores them in Pinecone, and answers user queries by retrieving relevant information from Pinecone.
 
+
+![Screenshot 2024-07-24 211839](https://github.com/user-attachments/assets/dc125cd4-efdc-466c-894f-6604bd6cd781)
+
+
+
 ## Table of Contents
 Prerequisites
 Installation
